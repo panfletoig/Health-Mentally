@@ -27,7 +27,7 @@ boton3.addEventListener("click", ()=>{
 
 })
 boton4.addEventListener("click", ()=>{
-    document.getElementById("texto4").innerHTML = '<a target="_blank" href="https://feelhealthy.goodbarber.app/adolescentes/c/0/i/58152060/adolescentes-durante-el-covid-19">https://feelhealthy.goodbarber.app/adolescentes/c/0/i/58152060/adolescentes-durante-el-covid-19</a>'+ "<br>" +
+    document.getElementById("texto4").innerHTML = '<a target="_blank" href="https://feelhealthy.goodbarber.app/adolescentes/c/0/i/58152060/adolescentes-durante-el-covid-19">App: Health Mentally</a>'+ "<br>" +
     "•	Esta app está diseñada para adolescentes que quieren informarse más acerca de la pandemia Covid-19, sobre la salud mental y como tener una mente sana. Es una aplicación muy completa cuenta con videos, cuestionarios e información importante.";
 
 })
